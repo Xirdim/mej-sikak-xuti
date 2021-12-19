@@ -1,0 +1,188 @@
+{
+  "words": [
+    {
+      "entry": {
+        "id": 2,
+        "form": "Mejsikak sika"
+      },
+      "translations": [
+        {
+          "title": "名詞句",
+          "forms": [
+            "メイシカク語"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語源",
+          "text": "「\"名詞\" と \"格\" 接辞 \"しか\" ない言語」より。",
+          "markdown": "「*\"名詞\"* と *\"格\"* 接辞 *\"しか\"* ない言語」より。"
+        },
+        {
+          "title": "履歴",
+          "text": "2021xxxx - 造語",
+          "markdown": "2021xxxx - 造語"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 4,
+        "form": "mejsi"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "我々",
+            "私たち"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語法",
+          "text": "複数を明示する場合にのみ用い、特に明示の必要がない場合は [mej] を用いる。",
+          "markdown": "複数を明示する場合にのみ用い、特に明示の必要がない場合は [mej] を用いる。"
+        },
+        {
+          "title": "語源",
+          "text": "[Mejsikak sika] からの逆成。",
+          "markdown": "[Mejsikak sika] からの逆成。"
+        },
+        {
+          "title": "履歴",
+          "text": "2021xxxx - 造語",
+          "markdown": "2021xxxx - 造語"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 1,
+        "form": "sika"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "言語"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語源",
+          "text": "[Mejsikak sika]からの逆成。",
+          "markdown": "[Mejsikak sika]からの逆成。"
+        },
+        {
+          "title": "履歴",
+          "text": "2021xxxx - 造語",
+          "markdown": "2021xxxx - 造語"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 5,
+        "form": "mej"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "私"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語法",
+          "text": "特に複数を明示したい場合は [mejsi] を用いる。",
+          "markdown": "特に複数を明示したい場合は [mejsi] を用いる。"
+        },
+        {
+          "title": "語源",
+          "text": "[mejsi] からの逆成。",
+          "markdown": "[mejsi] からの逆成。"
+        },
+        {
+          "title": "履歴",
+          "text": "2021xxxx - 造語",
+          "markdown": "2021xxxx - 造語"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 3,
+        "form": "-kak"
+      },
+      "translations": [
+        {
+          "title": "格接辞",
+          "forms": [
+            "属格接辞"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "異形",
+          "text": "-ak: 閉音節に接続する場合",
+          "markdown": "- -ak: 閉音節に接続する場合"
+        },
+        {
+          "title": "用法",
+          "text": "「～の」の意で連体修飾する（まあ体言しかないのだが）。",
+          "markdown": "「～の」の意で連体修飾する（まあ体言しかないのだが）。"
+        },
+        {
+          "title": "語源",
+          "text": "[Mejsikak sika] からの逆成。",
+          "markdown": "[Mejsikak sika] からの逆成。"
+        },
+        {
+          "title": "履歴",
+          "text": "2021xxxx - 造語",
+          "markdown": "2021xxxx - 造語"
+        }
+      ],
+      "variations": [
+        {
+          "title": "異形",
+          "form": "-ak"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "zpdic": {
+    "punctuations": [
+      ",",
+      "、"
+    ],
+    "pronunciationTitle": "Pronunciation"
+  },
+  "zpdicOnline": {
+    "explanation": "メイシカク語〈名詞と格接辞しかない言語, mejsikak sika〉の辞書。\n\n**〈辞書項目について〉**\n\n格接辞はハイフンから始まる項目名となっています。",
+    "enableMarkdown": true
+  },
+  "snoj": "# vowel\n\"a\" -> /a/\n\"i\" -> /i/\n\"u\" -> /u/\n\"e\" -> /e/\n\"o\" -> /o/\n\n# consonants\n\"k\" -> /k/\n\"g\" -> /g/\n\"s\" -> /s/\n\"z\" -> /z/\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"x\" -> /x/\n\"p\" -> /p/\n\"b\" -> /b/\n\"f\" -> /f/\n\"v\" -> /v/\n\"m\" -> /m/\n\"j\" -> /j/\n\"l\" -> /l/\n\"w\" -> /w/",
+  "version": 2
+}
